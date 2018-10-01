@@ -1,0 +1,11 @@
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\bin\Debug\netcoreapp2.0\AnimalHealth.deps.json
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\bin\Debug\netcoreapp2.0\AnimalHealth.runtimeconfig.json
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\bin\Debug\netcoreapp2.0\AnimalHealth.runtimeconfig.dev.json
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\bin\Debug\netcoreapp2.0\AnimalHealth.dll
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\bin\Debug\netcoreapp2.0\AnimalHealth.pdb
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.csproj.CoreCompileInputs.cache
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.AssemblyInfoInputs.cache
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.AssemblyInfo.cs
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.dll
+c:\users\alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.pdb
+C:\Users\Alison\source\repos\AnimalHealth\AnimalHealth\obj\Debug\netcoreapp2.0\AnimalHealth.csprojAssemblyReference.cache
